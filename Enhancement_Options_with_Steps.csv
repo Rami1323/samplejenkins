@@ -1,0 +1,1984 @@
+Incident_Closure_Notes,Enhancement_With_Steps
+"Since rollback as we are not facing this issue anymore will be closing this ticket, Please open a new request for future consultation- Thank you!","Enhancement: Automate rollback tracking and communication.
+Steps:
+1. Build a logging mechanism to capture rollback events with reasons and timestamps.
+2. Create a notification system to alert relevant teams during rollback.
+3. Include rollback summaries in automated closure notes.
+4. Maintain a historical rollback dashboard for trend analysis."
+consultation provided ,"Enhancement: Build a consultation tracking and suggestion system.
+Steps:
+1. Store resolved consultation tickets in a searchable knowledge base.
+2. Tag consultations with topic and resolution details.
+3. Enable real-time suggestions in ticketing tool for similar past consultations.
+4. Automate insertion of relevant KB links into response templates."
+"Issue not Request_x000D_
+_x000D_
+_x000D_
+Provided plugin guide for reference_x000D_
+_x000D_
+Nexus IQ Eclipse Plugin · HIG/cto_sdf_documentation Wiki (thehartford.com)_x000D_
+_x000D_
+_x000D_
+User opted for Intellij IDE","Enhancement: Implement smart ticket categorization.
+Steps:
+1. Use NLP to analyze ticket text and classify as issue, request, or question.
+2. Route tickets automatically to the correct support queue.
+3. Track misclassifications and continuously retrain the model.
+4. Provide feedback interface for support teams to correct labels."
+https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22com%2Fcgi%2Fcgi_rb9414_emma_img%2Frb9414%22:NX.coreui.model.Component-1,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"provided required information, Hence closing the ticket","Enhancement: Standardize and automate informational responses.
+Steps:
+1. Identify patterns in tickets that only require standard information.
+2. Create templates for common responses.
+3. Enable support agents to auto-apply templates based on topic tags.
+4. Include resolution timestamp and responder details in closure note."
+"Upgraded the Nexus IQ CLI _x000D_
+ now user don't see java paring error and report is updated with latest code.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"as per the request deleted the nexus repo build version._x000D_
+_x000D_
+Repository	maven-maven-releases_x000D_
+Format	maven2_x000D_
+Group	com.thehartford.corp.corp_it_treasury_gateway_x000D_
+Name	treasury_gateway_batch_script_x000D_
+Version	1.6.07 _x000D_
+_x000D_
+Repository	maven-maven-releases_x000D_
+Format	maven2_x000D_
+Group	com.thehartford.corp.corp_it_treasury_gateway_x000D_
+Name	treasury_gateway_batch_script_x000D_
+Version	1.6.08","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+As per user conformation closing the ticket,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"I needed to rebuild the 4.3.11 version and rerun our promotion logic but it appears this should be all set now._x000D_
+_x000D_
+I moved the 4.3.11 file back down to the base Nexus Repo so that you can continue to build._x000D_
+_x000D_
+Nathan will be investigating ways to query both of the Nexus Repos that we have._x000D_
+_x000D_
+David","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Please refer our SDF Documentation which would detail you about setting up the CI/CD pipeline - https://github.thehartford.com/HIG/cto_sdf_documentation/wiki_x000D_
+_x000D_
+In case of any clarifications needed you may please reach out to me","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Closing out this ticket now, hoping everything's sorted. If any hiccups pop up, feel free to shoot over a new request. _x000D_
+Thanks!!","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Worked with customer to provide the required information,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Tomcat dependency was already available in Maven Central,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+User account was in ad1 but nexus AD group was in ad2 - hence requested user to add his id to nexus ad1 group for getting the token access,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"we need the URL to download the file to upload into the nexus and the below details_x000D_
+_x000D_
+Groupid :_x000D_
+Artifact id: _x000D_
+Version: _x000D_
+_x000D_
+https://github.thehartford.com/HIG/cto_sdf_admin_docs/wiki/Nexus-Repository-Third-Party-Uploads","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+closing this based on the customer's confirmation,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Provided necessary guidance, user is able to access token","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+" To delete any component from nexus repository you need to raise a consultation request in mTE with component details for it to go through review and approval,  and as per unused or not downloaded artifacts we have retention policies setup for that.-Thank you!","Enhancement: Build a consultation tracking and suggestion system.
+Steps:
+1. Store resolved consultation tickets in a searchable knowledge base.
+2. Tag consultations with topic and resolution details.
+3. Enable real-time suggestions in ticketing tool for similar past consultations.
+4. Automate insertion of relevant KB links into response templates."
+"exceptions for Violation of License-SeeClause is granted for_x000D_
+_x000D_
+io.pebbletemplates : pebble : 3.2.2- IQ Server - Repository Component Details (thehartford.com)_x000D_
+_x000D_
+io.gatling.highcharts : gatling-charts-highcharts : 3.9.5- IQ Server - Repository Component Details (thehartford.com)_x000D_
+_x000D_
+ _x000D_
+_x000D_
+however, as io.gatling.highcharts : gatling-charts-highcharts : 3.9.5- IQ Server - Repository Component Details (thehartford.com) also have level 9 Security Error which must be resolved before you can use it. _x000D_
+_x000D_
+ _x000D_
+_x000D_
+communicated with THIP team for level 9 Security Error_x000D_
+_x000D_
+For highcharts, there were two HIGH severity vulnerabilities: _x000D_
+_x000D_
+ _x000D_
+_x000D_
+The first, CVE-2018-20801, if the exploitable, only impacts availability. There is no risk to confidentiality or integrity  _x000D_
+_x000D_
+The second, sonatype-2018-0476, has no CVE entry, and there are no remediated versions._x000D_
+_x000D_
+now requested is able to pull them from Nexus and the reports are getting generated.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Completed,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Please go through -_x000D_
+_x000D_
+https://thehartford.sharepoint.com/sites/CloudCommunityPortal/SitePages/AWS-Native-Pipeline.aspx#set-up-nexus-iq-scanning_x000D_
+_x000D_
+https://github.thehartford.com/HIG/cto_sdf_documentation/wiki/Nexus-Repo-Client-Setup","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Access was granted through a ""Service Account Add or Remove Active Directory Groups"" request","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+closing as we are not seeing gating issues and critical vulnerabilities. ,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Please follow the below and re-validate your nx AD group._x000D_
+_x000D_
+https://github.thehartford.com/HIG/cto_sdf_documentation/wiki/Nexus-Repo-Access","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Ben had call with user, issue is now resolved. _x000D_
+_x000D_
+provided details to user - nexus access - Nexus Repo Access · HIG/cto_sdf_documentation Wiki (thehartford.com) _x000D_
+_x000D_
+_x000D_
+From: Singh, Pradeep (Infrastructure) <Pradeep.Singh@thehartford.com> _x000D_
+Sent: Thursday, October 26, 2023 1:57 PM_x000D_
+To: Owen, Ben (Chief Information Office - IT) <benjamin.owen@thehartford.com>; Haston, Evan (Infrastructure) <Evan.Haston@thehartford.com>; Keirstead, Timothy L (THIP) <Tim.Keirstead@thehartford.com>; Maruri, Nikhitha (Chief Information Office - IT) <Nikhitha.Maruri@thehartford.com>; Saucier, Ken (Chief Information Office - IT) <Kenneth.Saucier@thehartford.com>; Chambers, Judith M (Chief Information Office - IT) <jchambers@thehartford.com>; @Automation Engineering <AutomationEngineering@thehartford.com>_x000D_
+Cc: Radhakrishna, Sudarshan (Infrastructure) <Sudarshan.Radhakrishna@thehartford.com>; Grazia, Eric D (THIP) <Eric.Grazia@thehartford.com>; Teichman, David (Infrastructure) <david.teichman@thehartford.com>_x000D_
+Subject: RE: Nexus Access Issue _x000D_
+_x000D_
+I restarted multiple times today . I can create the token and I updated my settings.xml for maven . But I am still not able to access the repos ._x000D_
+I have tried to login both with ps64643 and ps64643a ._x000D_
+_x000D_
+Downloading from nexus-maven-snapshots: https://nexusrepodirect.thehartford.com/repository/maven-snapshots/com/thehartford/cto/perfeng_dtrestapi/1.2.3-SNAPSHOT/maven-metadata.xml_x000D_
+Downloading from nexus-maven-public: https://nexusrepodirect.thehartford.com/repository/maven-public/com/thehartford/cto/perfeng_dtrestapi/1.2.3-SNAPSHOT/maven-metadata.xml_x000D_
+[WARNING] Could not transfer metadata com.thehartford.cto:perfeng_dtrestapi:1.2.3-SNAPSHOT/maven-metadata.xml from/to nexus-maven-public (https://nexusrepodirect.thehartford.com/repository/maven-public/): authentication failed for https://nexusrepodirect.thehartford.com/repository/maven-public/com/thehartford/cto/perfeng_dtrestapi/1.2.3-SNAPSHOT/maven-metadata.xml, status: 401 Unauthorized_x000D_
+_x000D_
+Here is what I get when running mvn install after updating the token in settings.xml_x000D_
+_x000D_
+Thank You_x000D_
+Pradeep Singh _x000D_
+_x000D_
+From: Owen, Ben (Chief Information Office - IT) <benjamin.owen@thehartford.com> _x000D_
+Sent: Thursday, October 26, 2023 2:32 PM_x000D_
+To: Haston, Evan (Infrastructure) <Evan.Haston@thehartford.com>; Keirstead, Timothy L (THIP) <Tim.Keirstead@thehartford.com>; Singh, Pradeep (Infrastructure) <Pradeep.Singh@thehartford.com>; Maruri, Nikhitha (Chief Information Office - IT) <Nikhitha.Maruri@thehartford.com>; Saucier, Ken (Chief Information Office - IT) <Kenneth.Saucier@thehartford.com>; Chambers, Judith M (Chief Information Office - IT) <jchambers@thehartford.com>; @Automation Engineering <AutomationEngineering@thehartford.com>_x000D_
+Cc: Radhakrishna, Sudarshan (Infrastructure) <Sudarshan.Radhakrishna@thehartford.com>; Grazia, Eric D (THIP) <Eric.Grazia@thehartford.com>; Teichman, David (Infrastructure) <david.teichman@thehartford.com>_x000D_
+Subject: RE: Nexus Access Issue _x000D_
+_x000D_
+It is standard for the SDF access groups to be on both the main account and the A account so that the A account can be used in instances that require a password (such as the nexusrepodirect URL)._x000D_
+_x000D_
+Pradeep may just have to close out the browser or reboot to see that page now. The 'User Token' option showing up in the sidebar where it didn't before indicates that his access is working, there may be something cached that is causing that page not to load._x000D_
+_x000D_
+-Ben_x000D_
+","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Please raise request to Active Directory team got get added to respective groups to gain access for needed applications and we don't manage AD groups.,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"You should be using your own ID for logging in to any of the SDF Tools, if you are not able to Signout then try clearcache or from another browser. Usually login happens with SSO, the ID you used to login to the VDI/Workstation_x000D_
+_x000D_
+In case of any queries please reach out to me","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22com%2Fhig%2Fawscli%2Fawscliv2%2F2.18.17%22,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Upload the new version to Nexus,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Provided necessary access.,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Package added released from quarantine._x000D_
+closing the ticket.","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+,No closure note available. Review manually for potential automation or process improvement.
+Closing this ticket as it is not related to Nexus.,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"CHG1217089_x000D_
+_x000D_
+ _x000D_
+_x000D_
+For the Release versions, packages older than 520 days (until January 2023) have been removed from the repository. This cleanup process ensures that only the most recent and relevant Release versions are maintained, optimizing storage, and improving overall repository management._x000D_
+_x000D_
+ Additionally, for the Snapshot versions, packages older than 100 days have been removed. This approach aligns with the best practices of retaining only the latest Snapshot versions, which are typically used for testing and development purposes._x000D_
+_x000D_
+Release version :_x000D_
+_x000D_
+Format : Nuget_x000D_
+Retention Days :520 (till Jan 2023)_x000D_
+Cleaned up component count: 2234_x000D_
+Policy applied: THAA_nuget_releases_not_downloaded_over_500_days_x000D_
+Snapshot version:_x000D_
+_x000D_
+Format : NuGet_x000D_
+Retention Days :100 days_x000D_
+Policy applied: nuget_snapshot_not_downloaded_over_2_years_x000D_
+ _x000D_
+_x000D_
+Application team provided their consent to proceed with the closure process","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Engaged with the customer to gather the required information, completed the task, and informed the user of the update.","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"to delete the artifacts , you would have to submit a consultation request with artifact details ","Enhancement: Build a consultation tracking and suggestion system.
+Steps:
+1. Store resolved consultation tickets in a searchable knowledge base.
+2. Tag consultations with topic and resolution details.
+3. Enable real-time suggestions in ticketing tool for similar past consultations.
+4. Automate insertion of relevant KB links into response templates."
+"The required artifact is available in below URL as it is used for prod deployment._x000D_
+_x000D_
+https://nexusrepoprod.thehartford.com/#browse/search=keyword%3Drma%20AND%20group.raw%3Dcom.thehartford.pi.pi_brs_rma:a4757bcaa62b63064bbfc5b469507d69","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"As discussed, we have deleted the requested libraries from the Nexus.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"As requested removed unwanted components from nexus_x000D_
+https://nexusrepo.thehartford.com/#browse/browse:nuget-releases:Himco.S3Utils","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"If it is 3rd party provided artifact then use the Nexus third-party category to raise a ticket and share the location from where the version of files you referred can be downloaded from._x000D_
+_x000D_
+Nexus third-party upload sample ticket - RITM2607250","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+task complete,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Please follow guidance as documented in SDF Community / Announcements - https://teams.microsoft.com/l/message/19:f84a6034fc2245c8b5dca370f890e0ef@thread.tacv2/1710423808970?tenantId=a311fc62-83f4-45f0-9502-1bb2247d4c8d&groupId=b09702f2-1c23-486d-8a50-820644f2bd9d&parentMessageId=1710423808970&teamName=SDF%20Community&channelName=Announcements&createdTime=1710423808970,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+,No closure note available. Review manually for potential automation or process improvement.
+"User was in AD2 group but needs AD1.  Submitted 2 tickets - revoke current access gb-nx-digital and add instead to gb-nx-digital-ad1._x000D_
+_x000D_
+Revoke ticket RITM3473863_x000D_
+_x000D_
+RITM3473866 Add, need approver, you can ask Jalpa Nagisetty to approve to get access quicker_x000D_
+_x000D_
+_x000D_
+","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Uploaded to Nexus_x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3Dpfnol%20AND%20group.raw%3Dcom.hig.wctriage%20AND%20version%3D2.0.0","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Issue with corrupted files in Nexus, re-uploaded files to nexus and now builds are successful._x000D_
+_x000D_
+","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Activity completed hence marking this request completed.,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"User installed with the help of this document: APIC_Config_Portal_Workspace Setup.docx_x000D_
+","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+ECOSBDD 4.0.0-SNAPSHOT has been removed,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+,No closure note available. Review manually for potential automation or process improvement.
+User was able to download the file .,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+task completed,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+completed the task,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"New version of jar is uploaded _x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22com%2Fthehartford%2Fremediate%2FReinsurance_2015_2%2F1.5%22:0fa1e05789fffcd394d7b5e8292e31b3","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Request completed and user Gautam confirmed closure of the below RITMS related to ""amazon-ssm-agent"" ECR iamge push request. PFA._x000D_
+","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"user confirmed _x000D_
+_x000D_
+Balarajendran, Balasurya (Employee Benefits CIO)_x000D_
+2/6/2025 12:25 PM_x000D_
+yeah it is pulling the artifact now","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+How to information provided,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+No cleanup required. Confirmed with the customer and closing the ticket,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Verified access and received user confirmation,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Task completed ,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+created a hosted repository for Powershell models in dev environment ,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+https://nexusrepodirect.thehartford.com/repository/maven_internal_hosted/com/customimage/cgi_rb9412_emma_img/rb9412/cgi_rb9412_emma_img-rb9412.tar.gz,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"https://nexusrepodirect.thehartford.com is for  Nexus Prod -infnxshp001_x000D_
+_x000D_
+https://infnexusrepo.thehartford.com is for infrastructure nexus ( Ansible Builds) -lad1nxshp2005_x000D_
+_x000D_
+","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+closing the ticket as there is no response from user - ALways raise an INC ticket if you face any issues,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+added app to NexusIQ under GS,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"These folders have been removed_x000D_
+_x000D_
+Thanks,_x000D_
+Ben Owen_x000D_
+SDF_x000D_
+","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Task completed.,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Removed the artifact jdk-11.0.17.tar.gz as requested_x000D_
+URL - https://infnexusrepo.thehartford.com/#browse/browse:raw_openshift_binaries:ansible%2Fjdk_x000D_
+_x000D_
+Available artifact is jdk11.0.17.tar.gz","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+uploaded in the designated folder,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+task completed,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Purged components older than 100 days for the provided list._x000D_
+Requester has validated and confirmed the action, Hence closing the ticket._x000D_
+","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Reqeust : Sample request for nexus third party component upload._x000D_
+_x000D_
+Action taken : Have provided the below ticket as a reference for nexus third party components upload.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+user said its fixed,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"user confirmed that nexus error is not throwing up by skipping stages_x000D_
+hence closing ticket","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Released from Quarantine on 2024-06-10 ,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Reuploaded the actual file.,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"New repo created in nexusrepoprod.thehartford.com: maven-gha-himco-releases-prod_x000D_
+_x000D_
+Browse URL: https://nexusrepoprod.thehartford.com/#browse/browse:maven-gha-himco-releases-prod_x000D_
+Maven URL:  https://nexusrepoproddirect.thehartford.com/repository/maven-gha-himco-releases-prod","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+task completed,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Task completed_x000D_
+took backup _x000D_
+Deleted the components ","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Activity completed hence marking this request completed.,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Artifacts uploaded to nexus_x000D_
+https://nexusrepo.thehartford.com/#browse/search=attributes.maven2.groupId%3Dcom.hig.wctriage%20AND%20attributes.maven2.artifactId%3Dwctriage*%20AND%20attributes.maven2.baseVersion%3D2.0.0","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Please refer work notes,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+,No closure note available. Review manually for potential automation or process improvement.
+"Snapshot exception is provided for ECOS application (APP-4176)._x000D_
+_x000D_
+URL - https://udeploy.thehartford.com/#applicationProcessRequest/18c7da0c-018d-155d-58a0-ecac02d7d3ba/log","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+please refer work notes,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"https://nexusrepodirect.thehartford.com/#browse/browse:docker_vip_build_output:v2%2Fbyoi%2Fdotnet%2Fsdk%2Ftags%2F8.0_x000D_
+_x000D_
+https://nexusrepodirect.thehartford.com/#browse/browse:docker_vip_build_output:v2%2Fbyoi%2Fdotnet%2Faspnet%2Ftags%2F8.0","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+deleted the the requested version,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Artifacts uploaded to Nexus_x000D_
+https://nexusrepo.thehartford.com/#browse/search=name.raw%3Dprod-wctriage-clm-mo-pfnol-*%20AND%20version%3D2.0.0","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+User requested Software Security request.,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Hi, Closing out this ticket now, hoping everything's sorted. If any hiccups pop up, feel free to shoot over a new request. _x000D_
+Thanks!!","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+created folders and jobs as requested.,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Had a discussion with Harini and verified the previous nexus uploads. Seems previous text uploads are good.,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Issue is resolved ,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Nexus Repository Overview · HIG/cto_sdf_documentation Wiki (thehartford.com),"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Renamed the artifact in Nexus as requested._x000D_
+_x000D_
+URL - https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22com%2Fdocumentum%2Fwebtop%2Fwebtop%2F16.7.9_P02%22:ee02c2ef4db8c142bf67f0c99ab300ef:a1e7bc0766ff3a3f8c788b502a017593","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Repo set up in Nexus Prod and permissions granted to nx-himco-users-* and nx-himco-service-* groups_x000D_
+https://nexusrepo.thehartford.com/#browse/browse:maven-gha-himco-releases","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Hi All,_x000D_
+_x000D_
+Based on my meeting with Aravind and my discussions with SDF team on teams I have noted the below action items_x000D_
+_x000D_
+•	Security Vulnerabilities:_x000D_
+o	Team can ignore the alerts in amber or yellow. They need to address only the ones in Red._x000D_
+o	The oracle jdbc version we should be using is com.oracle.jdbc : ojdbc7 : 12.1.0.2. We are using this version but the report still shows com.oracle.jdbc : ojdbc7 : 12.1.0.1. Aravind confirmed we can ignore that I this is the case._x000D_
+o	The Spring Framework version being used in the current builds (org.springframework : spring-beans : 5.3.19) is fine. We should try to go to next sub-version if possible (org.springframework : spring-beans : 5.3.20). Even if we stay on current version that is fine._x000D_
+•	Licensing Vulnerabilities:_x000D_
+o	If the builds are in unstable/success status and the version is available on nexus we can ignore all the licensing vulnerabilities in the nexus report. We can treat them as false positives._x000D_
+_x000D_
+Aravind / Chethan / Bharani – Please update or correct if anything is incorrect._x000D_
+_x000D_
+Thanks,_x000D_
+Ashish Butala_x000D_
+","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Hey David and Ryan,_x000D_
+_x000D_
+I fixed this by going to my parent's house.  Apparently, the WiFi in the office (Hartford) and my house is too slow?._x000D_
+_x000D_
+I'm curious what happened though, but I will try again in the office tomorrow. For now, it works and feel free to close the RITM ?_x000D_
+_x000D_
+","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Ticket aging so closing it, please raise an INC ticket if the issue occurs again","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"User wants 3rd party artifacts to upload to Nexus. Requested user to submit ""Nexus 3rd Party"" ticket to proceed.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"You should be using the URL from where the jar/ear/war files were downloaded, that should be the 3rd party/vendor site_x000D_
+_x000D_
+Sample (correct) ticket for this upload - Nexus third-party upload sample ticket - RITM2607250","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Jar file has been uploaded to the below path._x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22com%2Fselenium%2Fselenium-server-4.11.0%2F4.11.0%22:4d4efcd062aeb794a78419d77da12d13:e9658c0f461f204664d9841c02decf4a_x000D_
+_x000D_
+Let me know if you need any further details on this.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+,No closure note available. Review manually for potential automation or process improvement.
+"SDF do not accept the artifact as attachment or internal repository. Please share us the 3rd party url for SDF to download or schedule a screen sharing session to download the artifact for us._x000D_
+_x000D_
+Also, please submit Nexus 3rd Party ticket for artifact uploads.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Please raise request to Active Directory team got get added to respective groups to gain access for needed applications and we don't manage AD groups.,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Cleaned up Name: bi-sc-re-content-svc_x000D_
+Version: 25.03.0-rc-b001 as requested.","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Implemented some changes in the setup _x000D_
+provide usertoken and password details ","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Requested artifacts are deleted from Nexus.,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Below files has been deleted from the nexus._x000D_
+_x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3Dqa-pl-priority-level-fe-prevail:7cf3d05f93de6d945f7a39395e17e222_x000D_
+qa-pl-priority-level-fe-prevail.paas02.thehartford.com_x000D_
+_x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3Dpte-pl-priority-level-fe-prevail:7cf3d05f93de6d94fe2bf006abf01c67_x000D_
+pte-pl-priority-level-fe-prevail.paas02.thehartford.com","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Asked user to raise nexus third party component request for uploading components to nexus,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"The requested python version is available in nexus - https://infnexusrepo.thehartford.com/#browse/search=keyword%3Dpython:cf606f82560ea9060e1502fc985af30c_x000D_
+_x000D_
+Shared the same to IaC team for installation","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Components have been removed from Nexus,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Application evaluator access granted to svc-ADO-Prod for the GS organization,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Requested artifact has been deleted from Nexus._x000D_
+_x000D_
+URL - https://nexusrepodirect/#browse/browse:fja_internal_hosted_staging:com","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"[Wednesday 12:25 PM] Subedi, Sanchita (Data Science)_x000D_
+_x000D_
+statsmodels 0.13.5 is this python package?_x000D_
+_x000D_
+[Wednesday 12:26 PM] Subedi, Sanchita (Data Science)_x000D_
+_x000D_
+packaging==21.3_x000D_
+_x000D_
+importlib-metadata==3.6.0_x000D_
+_x000D_
+[Wednesday 12:26 PM] Subedi, Sanchita (Data Science)_x000D_
+_x000D_
+requests==2.26.0_x000D_
+_x000D_
+[Wednesday 12:26 PM] Subedi, Sanchita (Data Science)_x000D_
+_x000D_
+let me update and rerun_x000D_
+_x000D_
+[Wednesday 12:26 PM] HUANG, JIAN (Chief Information Office - IT)_x000D_
+_x000D_
+Thank you!_x000D_
+_x000D_
+[Wednesday 1:14 PM] Subedi, Sanchita (Data Science)_x000D_
+_x000D_
+looks like it passed_x000D_
+_x000D_
+[Wednesday 1:15 PM] Vemasani, Lokeswara Rao (Infrastructure)_x000D_
+_x000D_
+thanks god_x000D_
+_x000D_
+[Wednesday 1:15 PM] Subedi, Sanchita (Data Science)_x000D_
+_x000D_
+Thank you so much team. Really appreciate all your help _x000D_
+_x000D_
+ like 1","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"These artifacts have been removed_x000D_
+_x000D_
+-Ben_x000D_
+","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+requested user to check with security team,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Found licenses in the 'Banned' license threat group ('AGPL-3.0')_x000D_
+inquire with IT Asset Management if you want to request a waiver SWCompliance.Corp@thehartford.com","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"user is not part of nx-gb-upp-ad2, communicated the details with user on it.","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+,No closure note available. Review manually for potential automation or process improvement.
+"Cleared invalidate cache in repository, and then user updated the POM configuration to include the ZIP file containing the patches at the top. This ensured that the patch file was unpacked before the main WAR file was processed.","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Uploaded to Nexus_x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22com%2Fhig%2Fwctriage%2Fpte-wctriage-clm-mo-pfnol-severity-fe%2F2.0.0%22","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"As discussed, upload certs to our java key store. _x000D_
+Please reach out to me for further consultation_x000D_
+Thank you!","Enhancement: Build a consultation tracking and suggestion system.
+Steps:
+1. Store resolved consultation tickets in a searchable knowledge base.
+2. Tag consultations with topic and resolution details.
+3. Enable real-time suggestions in ticketing tool for similar past consultations.
+4. Automate insertion of relevant KB links into response templates."
+"Microsoft.Graph.Core.3.1.12, Microsoft.Graph 5.56.0 version is released from quarentine","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+added  gs_iep under GS LOB,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Advised user to create a AD group for there team,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"The version mq_rar_removal_v2-2022-01-28-00-18-20 looks little older and its release version mq_rar_removal_v2 already got promoted to nexusrepoprod repo and its not exist in nexusrepo currently._x000D_
+_x000D_
+Please re-build the artifact with same version and re-run the jboss image build.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Jar file has been uploaded into the below path._x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22com%2Fmicrosoft%2Fsqlserver%2Fmssql-jdbc%2F12.4.0%22","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Uploaded required package in Nexus with version 7.2154.0.,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Duplicate package has been removed from Nexus._x000D_
+_x000D_
+URL - https://nexusrepo.thehartford.com/#browse/search=keyword%3Dqcoe_microfocus_uft_install_pkg%20_x000D_
+_x000D_
+Requested user to submit Nexus 3rd Party ticket to upload new version of the package.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+deleted docker_vip_output/byoi/astronomer as requested. ,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"validated Nexus config, for pipeline issues team is working with Cloud Devops","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+At this point nothing changed & if you are Jenkins for build & UDeploy for deployment then you should use only HIG-Nexus for dependency calls,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Hi, Closing out this ticket now, hoping everything's sorted. If any hiccups pop up, feel free to shoot over a new request. _x000D_
+Thanks!!","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Please always raise an INC ticket to SDF L1 if you face any issues_x000D_
+_x000D_
+This build errors looks like code issue - https://jenkinsci.thehartford.com/gb-3/job/GB/job/WorkAbility/job/WKAB_APPS/job/CI_INT/job/THAA_EDO/job/gb_thaa_ifr/99/consoleFull_x000D_
+_x000D_
+Please try to compile it in local env in a new folder and see how it goes","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Please refer work notes,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Follow the below doc:_x000D_
+https://github.thehartford.com/HIG/cto_sdf_documentation/wiki/Nexus-Repo-Access","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+This has been completed as per Marc suggestion. 5 jar files have been uploaded as the rest were already available.,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"nx-bi_sc_nexus_uwusers Group exists and _x000D_
+AC16345 is already part of this group_x000D_
+","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Customer confirmed they are able to access Nexus.,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+,No closure note available. Review manually for potential automation or process improvement.
+"Artifact has been updated in Nexus:_x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22com%2Fhig%2Fwctriage%2Fpte-wctriage-clm-mo-pfnol-attorney-fe%2F2.0.0%22","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Usage:_x000D_
+<dependency>_x000D_
+<groupId>com.customimage</groupId>_x000D_
+<artifactId>CT-EMMA-LNX-X64-PSQL-20200909-12-V9SP4 RABC-17470 </artifactId>_x000D_
+<version>RABC-17470</version>_x000D_
+<type>zip</type>_x000D_
+</dependency>","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Repo set up in dev, tested successfully and now available in nexus prod_x000D_
+https://nexusrepodirect.thehartford.com/repository/forgerock-private-releases/","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+contacted customer for confirmation.,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Removed the requested artifact (voltron 1.3.0) from Nexus permanently.,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+created required role and provided necessary information with customer.,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+This has been already removed.,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Artifact copied as below:_x000D_
+From URL: https://nexusrepodirect.thehartford.com/#browse/search=keyword%3D8u361-b09:bd3ac6fe89c1ac67c974cda6a22adb93:f2b6f11bb177c6f3cc3202089997da2f_x000D_
+To URL: https://infnexusrepo.thehartford.com/#browse/browse:raw_openshift_binaries:ansible%2Fjdk_x000D_
+Artifact Name:  jdk1.8.0_361.tar.gz_x000D_
+_x000D_
+Artifact available now under below URL:_x000D_
+https://infnexusrepo.thehartford.com/#browse/browse:raw_openshift_binaries:ansible%2Fjdk%2Fjdk1.8.0_361.tar.gz","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"All nx-* AD groups have the same access in Nexus, so users just need to be in any one of those groups._x000D_
+If your team doesn't already have an nx-* group, then one can be created following the guidelines here: https://github.thehartford.com/HIG/cto_sdf_documentation/wiki/Nexus-Repo-Access#ad-group-requirements","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"artifact is in maven-maven-releases repository _x000D_
+ required:_x000D_
+9.2.0.2-p920-002-210312_x000D_
+version package in Index of /com/ibm/mq/wmq.jmsra (thehartford.com) this type of url _x000D_
+_x000D_
+uploaded the required file in target repo ","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"In dependencies SNAPSHOT version path in nexus not identifies in eclipse, same looks good for release version._x000D_
+So user good with release version. ","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"User team completed the nexus Ad group ._x000D_
+nx-automationengineering-ad1_x000D_
+And I validated user ID is existing in that respective group. _x000D_
+","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Deleted 0.1.5 folder from nexus.,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Updated proxy to point https://talendnexusdirect.thehartford.com/repository/latest-patch/ -> https://update.talend.com/Studio/8/updates/R2023-05/,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Package version pkce-1.0.0-beta2 in Nexus Repository_x000D_
+_x000D_
+We do not see any nexus level 8 or 10 violation for this item.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"us89026_v2 version has been removed from the nexus, let me know if you need any help on this.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Please refer our SDF documentation https://github.thehartford.com/HIG/cto_sdf_documentation/wiki,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"These artifacts have been deleted_x000D_
+_x000D_
+Thanks,_x000D_
+Ben Owen_x000D_
+SDF_x000D_
+","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"User is not part of any nexus groups please refer this documentation to get required access to access SDF applications_x000D_
+https://github.thehartford.com/HIG/cto_sdf_documentation/wiki/SDF-Application-Access_x000D_
+_x000D_
+provided instruction through teams.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"That is an option if the service accounts have server access._x000D_
+_x000D_
+Alternatively, if you have the username/password for the service accounts, you can use that to log into the direct Nexus URL that bypasses SSO:_x000D_
+https://nexusrepodirect.thehartford.com/_x000D_
+From there you should be able to generate a user token._x000D_
+_x000D_
+Thanks,_x000D_
+Ben Owen_x000D_
+SDF_x000D_
+_x000D_
+From: Selvaraj, Bharani Kumar (Infrastructure) <BharaniKumar.Selvaraj@thehartford.com> _x000D_
+Sent: Tuesday, August 08, 2023 10:42 AM_x000D_
+To: Owen, Ben (Chief Information Office - IT) <benjamin.owen@thehartford.com>; Provoost, Dave (Data Science) <David.Provoost@thehartford.com>_x000D_
+Subject: RE: RITM3986889_x000D_
+Sensitivity: Confidential_x000D_
+_x000D_
+Hi Dave,_x000D_
+_x000D_
+Looks like you need to login to the Server/VM with your service account, hit the Nexus URL, get the token created and use that token in your client where you try to access Nexus repo._x000D_
+_x000D_
+Refer this documentation for generating a token - Nexus Repository Overview · HIG/cto_sdf_documentation Wiki · GitHub (thehartford.com)_x000D_
+_x000D_
+@Owen, Ben (Chief Information Office - IT) – Please share your suggestions on this._x000D_
+","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"tracked the external CDN publish down to a uDeploy job_x000D_
+https://udeploy.thehartford.com/#application/173b5c62-5eb9-61df-b791-af87727df522/environments_x000D_
+ _x000D_
+The Jenkins job publishes to Nexus and then this uDeploy job picks up the artifact from there and re-publishes it to the CDN.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Requester confirmed this request is completed already , Hence closing the ticket.","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Certificate upload has been completed._x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22com%2Fhig%2Fpl%2Fint-pl-priority-level-fe%2F2.0.0%22","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"User Reran a scan and proxy is successfully pulling the right files_x000D_
+_x000D_
+https://jenkinsci.thehartford.com/cto-1/job/CTO/job/CTO_EWS/job/Magnolia/job/Magnolia-Core/","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"These images have been removed_x000D_
+_x000D_
+Thanks,_x000D_
+Ben Owen_x000D_
+SDF_x000D_
+","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Please refer work notes,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Communicated through Teams and fulfilled the request,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+If those are 3rd party provided jars then you can raise Nexus third-party upload (sample ticket - RITM2607250) and get those jars to Nexus and reference it from your code or if those are HIG owned source code created jars then you need to rebuild the source code for Jenkins to publish it to Nexus post org mandated checks - using the usually Jenkins pipeline.,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Please refer work notes,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"_x000D_
+Worked along with SW Compliance team and released the required packages from quarantine.","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Please refer work notes,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+,No closure note available. Review manually for potential automation or process improvement.
+"Telerik.Core.Export 2023.1.426  - https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22Telerik.Core.Export%2F2023.1.426%22:NX.coreui.model.Component-2_x000D_
+_x000D_
+Telerik.Documents.Fixed 2023.1.410 -https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22Telerik.Documents.Fixed%2F2023.1.410%22_x000D_
+_x000D_
+Telerik.Documents.Flow 2023.1.410 - https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22Telerik.Documents.Flow%2F2023.1.410%22_x000D_
+_x000D_
+Telerik.Documents.Flow.FormatProviders.Pdf 2023.1.410 - https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22Telerik.Documents.Flow.FormatProviders.Pdf%2F2023.1.410%22_x000D_
+_x000D_
+Telerik.Documents.ImageUtils 2023.1.410 - https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22Telerik.Documents.ImageUtils%2F2023.1.410%22","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"As discussed in the chat, In  the build log its trying to push artifact sp_rmar with version 1.49.1 to  https://nexusrepoproddirect repo which is already available, So its failing with throwing msg ""ERROR: Artifact has already been promoted to Nexus Prod so cannot be published.""_x000D_
+_x000D_
+So no issues in nexus publish/nexus repo.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+uploaded the artifact to nexus - https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22org%2Fkohsuke%2Fgroovy-sandbox%2F1.27%22:91aa16cc581620847adb9763bb6fd887 . user was able to run the build without issues . closing the request ,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Uploaded to Nexus_x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3Dpfnol%20AND%20group.raw%3Dcom.hig.wctriage%20AND%20version%3D2.0.0","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+The necessary binaries have been successfully uploaded to Nexus,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"user KT _x000D_
+","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+issue has been fixed,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"You may search the jar in https://nexusrepo.thehartford.com/#browse/browse:maven-public with it's associated ArtifactID & GroupID & Version._x000D_
+_x000D_
+Please reach out to me for any further clarification","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Please follow the below doc to get the nexus repo access._x000D_
+_x000D_
+https://github.thehartford.com/HIG/cto_sdf_documentation/wiki/Nexus-Repo-Access","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Package is available in nexus_x000D_
+_x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3Dqcoe_microfocus_uft_install_pkg:91aa16cc58162084043cc462f73dcf3c","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Artifacts have been uploaded to the Nexus repository_x000D_
+https://nexusrepo.thehartford.com/#browse/search/maven=format%3Dmaven2%20AND%20attributes.maven2.groupId%3Dcom.hig.wctriage%20AND%20attributes.maven2.artifactId%3Dpsp*%20AND%20attributes.maven2.baseVersion%3D2.0.0","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Provided service support and guidance._x000D_
+","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+,No closure note available. Review manually for potential automation or process improvement.
+User wanted to generate nexus token for nexus repo. I asked whether he can able to see user token option or not. Later user asked me to close the ticket. ,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"We can try adding multiple repository URL to in settings.xml so that it will search in both repo._x000D_
+_x000D_
+https://maven.apache.org/guides/mini/guide-multiple-repositories.html_x000D_
+_x000D_
+You might need to create token for this URL and just configure this url with token in settings.xml as mentioned in above document._x000D_
+_x000D_
+Please let me know if you don't have access to create token._x000D_
+https://nexusrepoprod.thehartford.com/#browse/browse_x000D_
+_x000D_
+_x000D_
+_x000D_
+Thanks, _x000D_
+Chethan BS_x000D_
+","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Hi Ramesh,_x000D_
+_x000D_
+Please find the below doc and follow the steps to get the access._x000D_
+_x000D_
+https://github.thehartford.com/HIG/cto_sdf_documentation/wiki/Nexus-Repo-Access_x000D_
+_x000D_
+Standard naming_x000D_
+must start with 'nx' and end with the domain_x000D_
+(-ad1 or -ad2) i.e. nx-cl-icon-ad1 or nx-cl-icon-ad2","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Requester confirmed closure,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Artifact uploaded to nexus_x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3Dwmq.jmsra:508c77dc711002969dc3e526067e4f2d","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+I set up a working session to investigate the issue and provided some workarounds for publishing libraries in the npm group repository.,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"uploaded._x000D_
+_x000D_
+<dependency>_x000D_
+  <groupId>com.hig.wctriage</groupId>_x000D_
+  <artifactId>qa2-wctriage-clm-severity-fe</artifactId>_x000D_
+  <version>2.0.0</version>_x000D_
+  <type>txt</type>_x000D_
+</dependency>_x000D_
+_x000D_
+<dependency>_x000D_
+  <groupId>com.hig.wctriage</groupId>_x000D_
+  <artifactId>qa2-wctriage-clm-attorney-fe</artifactId>_x000D_
+  <version>2.0.0</version>_x000D_
+  <type>txt</type>_x000D_
+</dependency>_x000D_
+_x000D_
+<dependency>_x000D_
+  <groupId>com.hig.wctriage</groupId>_x000D_
+  <artifactId>qa2-wctriage-clm-triage-fe</artifactId>_x000D_
+  <version>2.0.0</version>_x000D_
+  <type>txt</type>_x000D_
+</dependency>","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Please go thru this documentation – https://github.thehartford.com/HIG/cto_sdf_documentation/wiki/Nexus-IQ---Remediating-Vulnerabilities_x000D_
+_x000D_
+I guess you may need to work with Software Compliance Team to get your License issues remediated._x000D_
+_x000D_
+•	License violations are remediated by the application team and Software Compliance team","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Skip Publish enabled in the job configure - https://jenkinsci.thehartford.com/gb-1/job/GB/job/Customer_Activation/job/Pulse/job/CI_INT/job/V2_gb_Pulse/configure_x000D_
+_x000D_
+Uncheck it & run a build and your artifact should be in here - https://nexusrepo.thehartford.com/#browse/search=keyword%3Dmust%20AND%20group.raw%3Dcom.thehartford.gb.gb_pulse%20AND%20version%3DB.M.2023.MAS.WorkItem_32*","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Amazon/linux:2025 latest image has been pushed,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"informed user to use A account to login - https://github.thehartford.com/HIG/cto_sdf_documentation/wiki/Nexus-IQ-Access , user is able to access nexusiq now.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Uploaded to Nexus_x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22com%2Fhig%2Fwctriage%2Fqa2-wctriage-clm-mo-pfnol-severity-fe%2F2.0.0%22","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Please go through our documentation https://pages.github.thehartford.com/HIG/cto_sdf_documentation/_x000D_
+_x000D_
+You should be able to upload your docker image using an Jenkins pipeline but please also check with @PaaS Environment Management <PaaSEnvironmentManagement@thehartford.com> team as they need to do config in their repo for 1st time_x000D_
+_x000D_
+Assignment group - PaaS ENVIRONMENT MANAGEMENT_x000D_
+_x000D_
+In case of any further queries please reach out to me on this subject","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+task completed,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+,No closure note available. Review manually for potential automation or process improvement.
+"Files have been uploaded to Nexus_x000D_
+https://nexusrepo.thehartford.com/#browse/search/maven=attributes.maven2.artifactId%3Dwctriage-clm-mo-pfnol-*%20AND%20version%3D2.0.0","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"_x000D_
+<dependency>_x000D_
+ <groupId>com.github</groupId>_x000D_
+ <artifactId>actions-runner</artifactId>_x000D_
+ <version>2.317.0</version>_x000D_
+ <type>zip</type>_x000D_
+</dependency>_x000D_
+_x000D_
+ _x000D_
+_x000D_
+<dependency>_x000D_
+ <groupId>com.github</groupId>_x000D_
+ <artifactId>actions-runner-win</artifactId>_x000D_
+ <version>2.317.0</version>_x000D_
+ <type>zip</type>_x000D_
+</dependency>","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Requestor confirmed to close the request,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Discussed the requirements with the customer and provided the necessary consultation,"Enhancement: Build a consultation tracking and suggestion system.
+Steps:
+1. Store resolved consultation tickets in a searchable knowledge base.
+2. Tag consultations with topic and resolution details.
+3. Enable real-time suggestions in ticketing tool for similar past consultations.
+4. Automate insertion of relevant KB links into response templates."
+Artifact is no longer in Nexus,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"I just ran a build https://jenkins02.thehartford.com/job/GB/job/WorkAbility/job/WKAB_APPS/job/CI_INT/job/TIME_MANAGER/job/gb_thaa_tm_client/99/console and it created https://nexusrepo.thehartford.com/#browse/search=keyword%3Dgb_thaa_tm_client%20AND%20group.raw%3Dcom.thehartford.gb.tm:maven-maven-snapshots%3Acom.thehartford.gb.tm%3Agb_thaa_tm_client%3A0.0.1-SNAPSHOT_x000D_
+_x000D_
+The build which you started https://jenkins02.thehartford.com/job/GB/job/WorkAbility/job/WKAB_APPS/job/CI_INT/job/TIME_MANAGER/job/gb_thaa_tm_client/97/consoleFull created https://nexusrepo.thehartford.com/#browse/browse:maven-maven-snapshots:com%2Fthehartford%2Fgb%2Ftm%2Fgb_thaa_tm_client%2F0.0.1-SNAPSHOT%2F0.0.1-20220509.162238-28_x000D_
+_x000D_
+I don't see any issue in the build but incase if you have any issues in future please raise an INC ticket to SDF L1","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+https://nexusrepo.thehartford.com/#browse/browse:docker_vip_internal_host:v2%2Fbyoi%2Fplaywright%2Ftags%2Fv1.40.0-jammy,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"The requested information was provided to the user, as per user confirmation closing the support ticket ","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"user was looking to for base image of nginx , pointed user to nexus repo with it - https://nexusrepo.thehartford.com/#browse/search=keyword%3Dnginx:3b26a46d5120a37dd4440747935c4560","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"OrderUp image already available in nexus, please find the link below._x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3DOrderUp:bb883d67eaa127a9fce1a23c8be4cea3","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+All the jar files has been uploaded to Nexus,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"spoke to user, user would be getting in it touch with ansible team for packaging . ","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+uploaded required file,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Requested components have been removed from Nexus,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+user needed additional info regarding settings.xml beyond what was in the nexus documentation regarding id and token,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Guided user to fix security violations for iq scan issue,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"consulted with customer on this, will be closing this ticket","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Please submit a Nexus third-party upload ticket. Sample ticket - RITM2607250,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"removed from Nexus repository as per customer request _x000D_
+ansible/Oracle_Client/sqldeveloper_21.4.2.zip","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"As per the request removed the MAVEN2 formats for com.evinced cypress-sdk 3.15.0 AND com.evinced js-playwright-sdk 1.13.0. _x000D_
+ These are not applicable to the maven format and exist in NPM format.","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"'@evinced/js-playwright-sdk/-/js-playwright-sdk-1.13.0.tgz  exists in Nexus repo_x000D_
+_x000D_
+https://nexusrepodirect.thehartford.com/#browse/search=keyword%3Devinced%2Fjs-playwright-sdk%2F-%2Fjs-playwright-sdk-1.13.0.tgz%20:7cf3d05f93de6d941c892b0563c70c4f:0d4ae111ffb080dad5c430b27796e562","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"https://teams.microsoft.com/l/message/19:meeting_MGVhNWNlOTctYzg0My00MWFjLWJkYTItNDdlNzAyNmJjMjI2@thread.v2/1710531612626?context=%7B%22contextType%22%3A%22chat%22%7D_x000D_
+required component are present in nexus,  added additional lines to pull those dependencies.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Deleted from nexus:_x000D_
+Himco.DataDeliveryData.General.Services version 3.2.6-beta_x000D_
+Himco.DataDeliveryData.General version 3.2.6-beta","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"File has been uploaded in the below path. Please verify and confirm._x000D_
+_x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3Dcom.thehartford.cto.cto_bpcm_cast:4d4efcd062aeb7949e66c582da8d993b:7b65e98a1d67bee6e31aa5bd0e446570","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"These have been uploaded to Nexus_x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3Dpsp%20AND%20group.raw%3Dcom.hig.wctriage%20AND%20version%3D2.0.0","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"User request details : there is no source code repo of the jar, meaning we are not able to build the jar with jenkins (or maybe there is a way. I just don't know how). Also, the jar is not a third party jar. We don't have information of group id, artifact id etc._x000D_
+We generated the jar with a XSD file and xmlbeans command (one example is ""scomp -out corporation.jar corporation.xsd""). We want to upload it to corporate Nexus under the same group id and artifact id as this one Search - Nexus Repository Manager (thehartford.com)_x000D_
+ _x000D_
+SDF Team response:_x000D_
+As I said earlier, it should be done through jenkins pipeline. please find the comments below._x000D_
+we do not upload artifacts which are generated locally which will violate the HIG policy. Application team has to extract the jar content and follow CICD process to rebuild it and push it to Nexus.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Components have been removed,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"User doesn't have access to Nexus portal, hence requested to submit RITM for the same.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Push access provided and tested successfully,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Please refer this documentation - https://github.thehartford.com/HIG/cto_sdf_documentation/wiki/Nexus-IQ---Remediating-Vulnerabilities,"Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Artifacts uploaded to nexus_x000D_
+https://nexusrepo.thehartford.com/#browse/search=attributes.maven2.groupId%3Dcom.hig.wctriage%20AND%20attributes.maven2.baseVersion%3D2.0.0%20AND%20attributes.maven2.artifactId%3Dpte-wctriage*","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Hope build looks good and i'm closing the ticket._x000D_
+please rechout to me incase of any issues/concerns.","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Emailed the requested details. ,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Each time a new version comes out and goes through Nexus and if Nexus flags it and puts it in quarantine, then it must be reviewed. There is no automation to grant exceptions. ","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Artifact upload has been completed: _x000D_
+ https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22com%2Fhig%2Fpl%2Fqa-pl-priority-level-fe%2F2.0.0%22_x000D_
+  https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22com%2Fhig%2Fpl%2Fpte-pl-priority-level-fe%2F2.0.0%22","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"[Yesterday 11:50 AM] Owen, Ben (Chief Information Office - IT)_x000D_
+_x000D_
+Looks like these are all quarantined due to a license clause. License remediation is handled by IT Asset Management_x000D_
+_x000D_
+[Yesterday 11:51 AM] Owen, Ben (Chief Information Office - IT)_x000D_
+_x000D_
+You can send an email to SWCompliance.Corp@thehartford.com with the details on the component names and versions that you would like released from quarantine and they will take a look at the license and approve/deny_x000D_
+_x000D_
+[Yesterday 11:52 AM] Owen, Ben (Chief Information Office - IT)_x000D_
+_x000D_
+most of the time they'll grant the waiver_x000D_
+_x000D_
+[Yesterday 11:52 AM] Owen, Ben (Chief Information Office - IT)_x000D_
+_x000D_
+I would also mention in the email that this is in the npm-proxy repo and include this link to Nexus IQ_x000D_
+_x000D_
+https://iqnexus.thehartford.com/assets/index.html#/repository/2459de5b17964ef48851a93c4b891c27/result_x000D_
+_x000D_
+[Yesterday 12:10 PM] Baechle, Alie (Chief Information Office - IT)_x000D_
+_x000D_
+Thank you so much, I appreciate your help with this!_x000D_
+_x000D_
+[Yesterday 12:30 PM] Vemasani, Lokeswara Rao (Infrastructure)_x000D_
+_x000D_
+Thanks Ben","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Upgraded the Nexus IQ CLI _x000D_
+Report is updated with latest code","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"'- Telerik.Documents.SpreadsheetStreaming 2023.1.410_x000D_
+ _x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22Telerik.Documents.SpreadsheetStreaming%2F2023.1.410%22_x000D_
+_x000D_
+- Telerik.Documents.DrawingML 2023.1.410 _x000D_
+_x000D_
+https://nexusrepo.thehartford.com/#browse/search=keyword%3D%22Telerik.Documents.DrawingML%2F2023.1.410%22","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Currently, Nexus Repository Manager does not support the storage of Hugging Face AI models. This is due to the large size of these models, which can lead to timeouts when attempting to upload them to a raw repository._x000D_
+_x000D_
+Hugging Face model repository does not follow any repository format that Nexus can proxy.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Please find the details in the work notes,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Please follow Nexus third-party upload - sample ticket - RITM2607250_x000D_
+_x000D_
+In case of further queries you can reach out to me","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+Files no longer exists. Confirmed with user. ,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+provided guidance to customer,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"Met with Ed Morelli,_x000D_
+_x000D_
+ _x000D_
+_x000D_
+Discussed storing dynatrace-gcp-monitoring package in Nexus._x000D_
+_x000D_
+The package to store will be dynatrace/dynatrace-gcp-monitor_x000D_
+_x000D_
+dynatrace/dynatrace-gcp-monitor Tags | Docker Hub_x000D_
+release-1.5.2_x000D_
+_x000D_
+ _x000D_
+_x000D_
+advised and assisted Ed to create a new RITM RITM5160382 for the image_x000D_
+_x000D_
+ _x000D_
+_x000D_
+The software will be stored in Nexus under existing Dynatrace repo with a new directory for ""GCP"".  further related GCP images could be stored in this same repo directory.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+task completed,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"User update not longer required changes so close the ticket, please regenerate a ticket for future changes.","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"User id is in AD1 domain, and the nexus group is in AD2 domain._x000D_
+Requested user to  update her id to AD2 to avoid the conflict.","Enhancement: Integrate contextual documentation for Nexus-related issues.
+Steps:
+1. Parse errors in ticket text related to Nexus.
+2. Map errors to relevant docs or articles.
+3. Automatically attach resource links in support replies.
+4. Maintain a dynamic reference map of Nexus issue keywords to documentation."
+"Microsoft.TypeScript.MSBuild 5.3.3  component is quarantined with Violation of License-SeeClause, waivered from quarantine.","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"_x000D_
+Gayathri Srinivasan_x000D_
+Additional comments•2024-10-07 13:01:48_x000D_
+this has been solved.. could you please close the ticket.","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"format has been changed from maven2 to npm,_x000D_
+actually uploaded files to npm_internal_hosted repo.","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+Requester confirmed on closure of this ticket .,"Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
+"_x000D_
+Added App manually to IQ as requested","Enhancement: Improve general ticket resolution handling.
+Steps:
+1. Identify most frequent closure patterns.
+2. Build a suggestion engine to assist in composing closure notes.
+3. Tag tickets with relevant categories to improve reporting.
+4. Propose related articles or solutions automatically."
